@@ -27,8 +27,8 @@
       "ios"
     ]
   },
-  "homepage": "https://ratson.github.io/cordova-plugin-admob-free/",
-  "repository": "ratson/cordova-plugin-admob-free",
+  "homepage": "https://ojsglobal.github.io/cordova-plugin-admob-free/",
+  "repository": "ojsglobal/cordova-plugin-admob-free",
   "keywords": [
     "cordova",
     "admob",
@@ -42,7 +42,7 @@
     "admobpro"
   ],
   "tonicExampleFilename": "test.js",
-  "author": "Ratson",
+  "author": "ojsglobal",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.2.2",
