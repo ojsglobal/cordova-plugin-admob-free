@@ -1,4 +1,4 @@
-package name.ratson.cordova.admob;
+package name.ojsglobal.cordova.admob;
 
 import org.json.JSONException;
 import org.json.JSONObject;

@@ -4,13 +4,13 @@ A free, no ad-sharing version of Google AdMob plugin for Cordova.
 
 ## Status
 
-I have been asking the interest about [funding this project](https://github.com/ratson/cordova-plugin-admob-free/issues/161) a while, got some encouraging feedback, finally have setup [a funding page](https://ratson.name/fund-admob-plus/).
+I have been asking the interest about [funding this project](https://github.com/ojsglobal/cordova-plugin-admob-free/issues/161) a while, got some encouraging feedback, finally have setup [a funding page](https://ojsglobal.name/fund-admob-plus/).
 
 I am actively developing [admob-plus](https://github.com/admob-plus/admob-plus) for the last few weeks, it is usable for most cases, please try it out and give feedback.
 
 While my focus is `admob-plus`, I will keep maintaining `cordova-plugin-admob-free` until all exisiting features are available with the new plugin.
 
-If you are earning more than USD$200 monthly from using this plugin, please consider [funding my work](https://ratson.name/fund-admob-plus/).
+If you are earning more than USD$200 monthly from using this plugin, please consider [funding my work](https://ojsglobal.name/fund-admob-plus/).
 
 ## Features
 
@@ -35,7 +35,7 @@ If you are earning more than USD$200 monthly from using this plugin, please cons
 | [admob](https://github.com/admob-google/admob-cordova)                                       | Not Sure                                                                                                                                       | [❌](https://github.com/admob-google/admob-cordova/blob/master/src/android/libs/admobadplugin.jar) [❌](https://github.com/admob-google/admob-cordova/blob/master/src/ios/AdmobAPI.framework/AdmobAPI)       | Not Sure                                                                                                                                      |
 | [cordova-admob](https://github.com/appfeel/admob-google-cordova)                             | [❌](https://github.com/appfeel/admob-google-cordova/blob/3f122f278a323a4bc9e580f400182a7bd690a346/src/android/AdMobAds.java#L569)             | ✅                                                                                                                                                                                                           | ✅                                                                                                                                            |
 | [cordova-plugin-ad-admob](https://github.com/cranberrygame/cordova-plugin-ad-admob)          | [❌](https://github.com/cranberrygame/cordova-plugin-ad-admob/blob/7aaa397b19ab63579d6aa68fbf20ffdf795a15fc/src/android/AdMobPlugin.java#L330) | ✅                                                                                                                                                                                                           | ✅                                                                                                                                            |
-| [cordova-plugin-admob-free](https://github.com/ratson/cordova-plugin-admob-free)             | ✅                                                                                                                                             | ✅                                                                                                                                                                                                           | ✅                                                                                                                                            |
+| [cordova-plugin-admob-free](https://github.com/ojsglobal/cordova-plugin-admob-free)             | ✅                                                                                                                                             | ✅                                                                                                                                                                                                           | ✅                                                                                                                                            |
 | [cordova-plugin-admob-simple](https://github.com/sunnycupertino/cordova-plugin-admob-simple) | [❌](https://github.com/sunnycupertino/cordova-plugin-admob-simple/blob/a58846c1ea14188a4aef44381ccd28ffdcae3bfa/src/android/AdMob.java#L207)  | ✅                                                                                                                                                                                                           | [❌](https://github.com/sunnycupertino/cordova-plugin-admob-simple/blob/f7cc64e9e018f2146b2735b5ae8d3b780fa24f72/src/android/AdMob.java#L728) |
 | [cordova-plugin-admobpro](https://github.com/floatinghotpot/cordova-admob-pro)               | [❌](https://github.com/floatinghotpot/cordova-admob-pro/wiki/License-Agreement#2-win-win-partnership)                                         | [❌](https://github.com/floatinghotpot/cordova-extension/blob/master/src/android/cordova-generic-ad.jar) [❌](https://github.com/floatinghotpot/cordova-extension/blob/master/src/ios/libCordovaGenericAd.a) | [❌](https://github.com/floatinghotpot/cordova-admob-pro/issues/326) [❌](https://github.com/floatinghotpot/cordova-admob-pro/issues/450)     |
 
@@ -67,15 +67,15 @@ Go to the [AdMob portal](https://www.google.com/admob/) and add your app (if you
 
 ### 2. Display advertisements
 
-#### [Banner Ad](https://ratson.github.io/cordova-plugin-admob-free/variable/index.html#static-variable-banner)
+#### [Banner Ad](https://ojsglobal.github.io/cordova-plugin-admob-free/variable/index.html#static-variable-banner)
 
-#### [Interstitial Ad](https://ratson.github.io/cordova-plugin-admob-free/variable/index.html#static-variable-interstitial)
+#### [Interstitial Ad](https://ojsglobal.github.io/cordova-plugin-admob-free/variable/index.html#static-variable-interstitial)
 
-#### [Reward Video Ad](https://ratson.github.io/cordova-plugin-admob-free/variable/index.html#static-variable-rewardvideo)
+#### [Reward Video Ad](https://ojsglobal.github.io/cordova-plugin-admob-free/variable/index.html#static-variable-rewardvideo)
 
 ### 3. Profit
 
-If you find this plugin useful, please [star it on Github](https://github.com/ratson/cordova-plugin-admob-free).
+If you find this plugin useful, please [star it on Github](https://github.com/ojsglobal/cordova-plugin-admob-free).
 
 ## Screenshots
 
@@ -94,7 +94,7 @@ If you find this plugin useful, please [star it on Github](https://github.com/ra
 
 ## API
 
-See [documentation page](https://ratson.github.io/cordova-plugin-admob-free/identifiers.html).
+See [documentation page](https://ojsglobal.github.io/cordova-plugin-admob-free/identifiers.html).
 
 ## Customize Google Play Services versions (Android only)
 
@@ -113,19 +113,19 @@ Note that if you are adding these lines to an existing project, you need to remo
 
 You can use this Cordova plugin for free. You can contribute to this project in many ways:
 
-* [Reporting issues](https://github.com/ratson/cordova-plugin-admob-free/issues).
-* Patching and bug fixing, especially when submitted with test code. [Open a pull request](https://github.com/ratson/cordova-plugin-admob-free/pulls).
+* [Reporting issues](https://github.com/ojsglobal/cordova-plugin-admob-free/issues).
+* Patching and bug fixing, especially when submitted with test code. [Open a pull request](https://github.com/ojsglobal/cordova-plugin-admob-free/pulls).
 * Other enhancements.
 
 Help with documentation is always appreciated and can be done via pull requests.
 
-Read [Contributing Guide](https://ratson.github.io/cordova-plugin-admob-free/manual/tutorial.html#contributing-guide) to learn how to contribute.
+Read [Contributing Guide](https://ojsglobal.github.io/cordova-plugin-admob-free/manual/tutorial.html#contributing-guide) to learn how to contribute.
 
 ### Ionic Support
 
 While the Ionic community have provided [an Ionic Native Plugin](https://ionicframework.com/docs/native/admob-free/), plugin users need more examples and tutorials.
 
-As I ([@ratson](https://github.com/ratson)) don't use Ionic myself, it would be great if some experienced Ionic developers could help answering questions or come up with more examples. HELP WANTED HERE.
+As I ([@ojsglobal](https://github.com/ojsglobal)) don't use Ionic myself, it would be great if some experienced Ionic developers could help answering questions or come up with more examples. HELP WANTED HERE.
 
 ## Credits
 

@@ -21,7 +21,7 @@
 
 ## 0.21.0 (2018-10-10)
 
-* Make plugin available for Ads SDK v17.0.0. ([@paulstelzer](https://github.com/paulstelzer) in [#287](https://github.com/ratson/cordova-plugin-admob-free/pull/287))
+* Make plugin available for Ads SDK v17.0.0. ([@paulstelzer](https://github.com/paulstelzer) in [#287](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/287))
 
 ## 0.20.0 (2018-10-06)
 
@@ -29,7 +29,7 @@
 
 ## 0.19.0 (2018-09-27)
 
-* Emit COMPLETE event for Rewarded Video ad. ([@Montoya](https://github.com/Montoya) in [#281](https://github.com/ratson/cordova-plugin-admob-free/pull/281))
+* Emit COMPLETE event for Rewarded Video ad. ([@Montoya](https://github.com/Montoya) in [#281](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/281))
 * Update `cordova-admob-sdk` to v0.19.0.
 * Build with `babel` v7.
 
@@ -41,43 +41,43 @@
 
 ## 0.17.4 (2018-07-30)
 
-* Fix mismatch doc. ([@charlesverge](https://github.com/charlesverge) in [#267](https://github.com/ratson/cordova-plugin-admob-free/pull/267))
+* Fix mismatch doc. ([@charlesverge](https://github.com/charlesverge) in [#267](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/267))
 
 
 ## 0.17.3 (2018-07-14)
 
-* Fix banner locations on the iPhone X for top banners. ([@tennist](https://github.com/tennist) in [#262](https://github.com/ratson/cordova-plugin-admob-free/pull/262))
+* Fix banner locations on the iPhone X for top banners. ([@tennist](https://github.com/tennist) in [#262](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/262))
 
 ## 0.17.2 (2018-06-25)
 
-* Remove unused import. ([@jcesarmobile](https://github.com/jcesarmobile) in [#254](https://github.com/ratson/cordova-plugin-admob-free/pull/254))
-* Revert [#234](https://github.com/ratson/cordova-plugin-admob-free/pull/234))
+* Remove unused import. ([@jcesarmobile](https://github.com/jcesarmobile) in [#254](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/254))
+* Revert [#234](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/234))
 
 ## 0.17.1 (2018-06-16)
 
-* Fix iPhone X & iOs11 issues. ([@tennist](https://github.com/tennist) in [#232](https://github.com/ratson/cordova-plugin-admob-free/pull/232))
-* Fix onRewardedVideoCompleted error. ([@Penny13692018](https://github.com/Penny13692018) in [#234](https://github.com/ratson/cordova-plugin-admob-free/pull/234))
+* Fix iPhone X & iOs11 issues. ([@tennist](https://github.com/tennist) in [#232](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/232))
+* Fix onRewardedVideoCompleted error. ([@Penny13692018](https://github.com/Penny13692018) in [#234](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/234))
 
 ## 0.17.0 (2018-05-22)
 
-* Update `cordova-admob-sdk` to v0.17.0. ([@rafaellop](https://github.com/rafaellop) in [#219](https://github.com/ratson/cordova-plugin-admob-free/pull/219))
+* Update `cordova-admob-sdk` to v0.17.0. ([@rafaellop](https://github.com/rafaellop) in [#219](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/219))
 
 ## 0.16.1 (2018-05-13)
 
-* Fix for iPhone X status bar improperly refreshed ([@rafaellop](https://github.com/rafaellop) in [#218](https://github.com/ratson/cordova-plugin-admob-free/pull/218))
+* Fix for iPhone X status bar improperly refreshed ([@rafaellop](https://github.com/rafaellop) in [#218](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/218))
 
 ## 0.16.0 (2018-04-27)
 
 * Update `cordova-admob-sdk` to v0.16.0.
-* Fix not showing production ads on iOS ([@MBuchalik](https://github.com/MBuchalik) in [#208](https://github.com/ratson/cordova-plugin-admob-free/pull/208))
-* Fix crashes on Android ([@tominou](https://github.com/tominou) in [#201](https://github.com/ratson/cordova-plugin-admob-free/pull/201))
+* Fix not showing production ads on iOS ([@MBuchalik](https://github.com/MBuchalik) in [#208](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/208))
+* Fix crashes on Android ([@tominou](https://github.com/tominou) in [#201](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/201))
 
 ## 0.15.0 (2018-03-25)
 
 * Update `cordova-admob-sdk` to v0.15.1.
 * Implement `onRewardedVideoCompleted()` callback for Android.
-* Add space for non-overlapping bottom banners on iPhone X ([@MBuchalik](https://github.com/MBuchalik) in [#186](https://github.com/ratson/cordova-plugin-admob-free/pull/186))
-* Add filenames to src attr to copy source-files. ([@srikanth-wgl](https://github.com/srikanth-wgl) in [#189](https://github.com/ratson/cordova-plugin-admob-free/pull/189))
+* Add space for non-overlapping bottom banners on iPhone X ([@MBuchalik](https://github.com/MBuchalik) in [#186](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/186))
+* Add filenames to src attr to copy source-files. ([@srikanth-wgl](https://github.com/srikanth-wgl) in [#189](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/189))
 
 ## 0.14.0 (2018-02-09)
 
@@ -97,7 +97,7 @@
 
 ### Fixed
 
-* Update Rewarded Video Test Ad ID. ([@nicolasmoreira](https://github.com/nicolasmoreira) in [#125](https://github.com/ratson/cordova-plugin-admob-free/pull/125))
+* Update Rewarded Video Test Ad ID. ([@nicolasmoreira](https://github.com/nicolasmoreira) in [#125](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/125))
 
 ## 0.12.0 (2017-11-19)
 
@@ -124,7 +124,7 @@
 
 ### Fixed
 
-* Avoid webview redraws the background. ([@warcry2000](https://github.com/wf9a5m75) in [#95](https://github.com/ratson/cordova-plugin-admob-free/pull/95))
+* Avoid webview redraws the background. ([@warcry2000](https://github.com/wf9a5m75) in [#95](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/95))
 
 ## 0.9.0 (2017-05-07)
 
@@ -142,7 +142,7 @@
 
 ### Added
 
-* Add availability methods for interstitials and reward videos. ([@vintage](https://github.com/vintage) in [#54](https://github.com/ratson/cordova-plugin-admob-free/pull/54))
+* Add availability methods for interstitials and reward videos. ([@vintage](https://github.com/vintage) in [#54](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/54))
 
 ### Breaking
 
@@ -156,7 +156,7 @@
 
 ### Fixed
 
-* Fix iOS InterstitialAd does not call failure callback. ([@becvert](https://github.com/becvert) in [#47](https://github.com/ratson/cordova-plugin-admob-free/pull/47))
+* Fix iOS InterstitialAd does not call failure callback. ([@becvert](https://github.com/becvert) in [#47](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/47))
 
 ## 0.6.0 (2017-01-16)
 
@@ -188,10 +188,10 @@ it is strongly recommended to migrate to new API and give feedback.
 
 ### Added
 
-* Support Rewarded Video. ([@warcry2000](https://github.com/warcry2000) in [#35](https://github.com/ratson/cordova-plugin-admob-free/pull/35))
+* Support Rewarded Video. ([@warcry2000](https://github.com/warcry2000) in [#35](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/35))
 * Promise APIs.
 * Events now have namespace.
-* Add [mediation example](https://github.com/ratson/cordova-plugin-admob-free/tree/master/examples/mediation)
+* Add [mediation example](https://github.com/ojsglobal/cordova-plugin-admob-free/tree/master/examples/mediation)
 
 ## 0.5.1 (2016-12-08)
 
@@ -208,19 +208,19 @@ it is strongly recommended to migrate to new API and give feedback.
 
 ### Added
 
-* [Documentation page](https://ratson.github.io/cordova-plugin-admob-free/) is available.
-* Support Child-directed setting. ([@Venkat-TTapp](https://github.com/Venkat-TTapp) in [#32](https://github.com/ratson/cordova-plugin-admob-free/issues/32))
+* [Documentation page](https://ojsglobal.github.io/cordova-plugin-admob-free/) is available.
+* Support Child-directed setting. ([@Venkat-TTapp](https://github.com/Venkat-TTapp) in [#32](https://github.com/ojsglobal/cordova-plugin-admob-free/issues/32))
 
 ### Fixed
 
 * Babel generated more compatible code.
-* Separate autoShow for banner and interstitial. ([@oangelo](https://github.com/oangelo) in [#27](https://github.com/ratson/cordova-plugin-admob-free/issues/27))
+* Separate autoShow for banner and interstitial. ([@oangelo](https://github.com/oangelo) in [#27](https://github.com/ojsglobal/cordova-plugin-admob-free/issues/27))
 
 ## 0.4.1 (2016-11-22)
 
 ### Fixed
 
-* Remove duplicated `LARGE_BANNER`. ([@warcry2000](https://github.com/warcry2000) in [#28](https://github.com/ratson/cordova-plugin-admob-free/issues/28))
+* Remove duplicated `LARGE_BANNER`. ([@warcry2000](https://github.com/warcry2000) in [#28](https://github.com/ojsglobal/cordova-plugin-admob-free/issues/28))
 
 ## 0.4.0 (2016-11-07)
 
@@ -237,7 +237,7 @@ it is strongly recommended to migrate to new API and give feedback.
 
 ### Fixed
 
-* Fix banner focus for Android. ([@raulpopi](https://github.com/raulpopi) in [#19](https://github.com/ratson/cordova-plugin-admob-free/issues/19))
+* Fix banner focus for Android. ([@raulpopi](https://github.com/raulpopi) in [#19](https://github.com/ojsglobal/cordova-plugin-admob-free/issues/19))
 
 ## 0.3.0 (2016-10-23)
 
@@ -247,4 +247,4 @@ it is strongly recommended to migrate to new API and give feedback.
 
 ### Fixed
 
-* Fix displaying test ads on iOS devices. ([@vintage](https://github.com/vintage) in [#17](https://github.com/ratson/cordova-plugin-admob-free/pull/17))
+* Fix displaying test ads on iOS devices. ([@vintage](https://github.com/vintage) in [#17](https://github.com/ojsglobal/cordova-plugin-admob-free/pull/17))

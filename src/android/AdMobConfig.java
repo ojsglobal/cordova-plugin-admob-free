@@ -1,4 +1,4 @@
-package name.ratson.cordova.admob;
+package name.ojsglobal.cordova.admob;
 
 import android.location.Location;
 import android.util.Log;
